@@ -1,0 +1,53 @@
+.title {
+    padding: 30px;
+    background-color: #666666;
+    text-align: center;
+    color: white;
+}
+
+.container {
+    margin: 0 20%;
+}
+
+td, th {
+    width: 15%;
+}
+
+.mat-mdc-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+.see {
+    padding: 5px;
+    cursor: pointer;
+    color: #1ec188;
+}
+
+.edit {
+    padding: 5px;
+    cursor: pointer;
+    color: #0b4ce3;
+}
+
+.delete {
+    padding: 5px;
+    cursor: pointer;
+    color: #F10000;
+}
+
+.add {
+    color: #000000;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+/*Button Raised Success - class="mat-raised-button"*/
+.mat-button.mat-success{
+    color: #155724;
+}
+
+.mat-raised-button.mat-success {
+  color: #f0fff3;
+  background-color: #155724;
+}
